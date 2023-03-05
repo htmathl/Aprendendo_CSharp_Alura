@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{3916A794-BA9D-4598-BD91-4FD26937C9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{3916A794-BA9D-4598-BD91-4FD26937C9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{6F70D206-7BE2-4F3C-8001-F7057A652668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{215D4ABB-3EF1-4F01-9143-D325EB81D8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesDeVariaveis", "4-ConversoesDeVariaveis\4-ConversoesDeVariaveis.csproj", "{C5776A05-AEB3-4298-A85D-F927CE6DCD2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{3916A794-BA9D-4598-BD91-4FD26937C9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3916A794-BA9D-4598-BD91-4FD26937C9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3916A794-BA9D-4598-BD91-4FD26937C9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F70D206-7BE2-4F3C-8001-F7057A652668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F70D206-7BE2-4F3C-8001-F7057A652668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F70D206-7BE2-4F3C-8001-F7057A652668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F70D206-7BE2-4F3C-8001-F7057A652668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215D4ABB-3EF1-4F01-9143-D325EB81D8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215D4ABB-3EF1-4F01-9143-D325EB81D8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215D4ABB-3EF1-4F01-9143-D325EB81D8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215D4ABB-3EF1-4F01-9143-D325EB81D8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5776A05-AEB3-4298-A85D-F927CE6DCD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5776A05-AEB3-4298-A85D-F927CE6DCD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5776A05-AEB3-4298-A85D-F927CE6DCD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5776A05-AEB3-4298-A85D-F927CE6DCD2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
