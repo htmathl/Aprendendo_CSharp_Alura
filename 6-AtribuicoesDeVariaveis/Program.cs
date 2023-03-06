@@ -15,5 +15,6 @@ class Programa
 
         Console.WriteLine(idadeAnna);
 
+        //instruções do código são lineares
     }
 }

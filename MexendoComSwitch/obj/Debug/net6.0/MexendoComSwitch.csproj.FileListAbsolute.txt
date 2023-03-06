@@ -1,0 +1,15 @@
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\bin\Debug\net6.0\MexendoComSwitch.exe
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\bin\Debug\net6.0\MexendoComSwitch.deps.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\bin\Debug\net6.0\MexendoComSwitch.runtimeconfig.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\bin\Debug\net6.0\MexendoComSwitch.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\bin\Debug\net6.0\MexendoComSwitch.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.csproj.AssemblyReference.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.AssemblyInfoInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.AssemblyInfo.cs
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.csproj.CoreCompileInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\refint\MexendoComSwitch.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\MexendoComSwitch.genruntimeconfig.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\MexendoComSwitch\obj\Debug\net6.0\ref\MexendoComSwitch.dll
