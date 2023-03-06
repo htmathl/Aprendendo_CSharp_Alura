@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\iprem\\.nuget\\packages\\": {}
+    "C:\\Users\\matfd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\1-OlaMundo\\1-OlaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\1-OlaMundo\\1-OlaMundo.csproj",
       "projectName": "1-OlaMundo",
-      "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\1-OlaMundo\\1-OlaMundo.csproj",
-      "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\1-OlaMundo\\obj\\",
+      "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\1-OlaMundo\\1-OlaMundo.csproj",
+      "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\1-OlaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

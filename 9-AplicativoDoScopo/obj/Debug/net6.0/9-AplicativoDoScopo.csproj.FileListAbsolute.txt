@@ -1,0 +1,15 @@
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\bin\Debug\net6.0\9-AplicativoDoScopo.exe
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\bin\Debug\net6.0\9-AplicativoDoScopo.deps.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\bin\Debug\net6.0\9-AplicativoDoScopo.runtimeconfig.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\bin\Debug\net6.0\9-AplicativoDoScopo.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\bin\Debug\net6.0\9-AplicativoDoScopo.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.csproj.AssemblyReference.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.AssemblyInfoInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.AssemblyInfo.cs
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.csproj.CoreCompileInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\refint\9-AplicativoDoScopo.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\9-AplicativoDoScopo.genruntimeconfig.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\9-AplicativoDoScopo\obj\Debug\net6.0\ref\9-AplicativoDoScopo.dll

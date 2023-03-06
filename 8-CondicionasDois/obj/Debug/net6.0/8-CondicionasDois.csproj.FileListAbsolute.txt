@@ -1,0 +1,15 @@
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\bin\Debug\net6.0\8-CondicionasDois.exe
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\bin\Debug\net6.0\8-CondicionasDois.deps.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\bin\Debug\net6.0\8-CondicionasDois.runtimeconfig.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\bin\Debug\net6.0\8-CondicionasDois.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\bin\Debug\net6.0\8-CondicionasDois.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.csproj.AssemblyReference.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.AssemblyInfoInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.AssemblyInfo.cs
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.csproj.CoreCompileInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\refint\8-CondicionasDois.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\8-CondicionasDois.genruntimeconfig.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\8-CondicionasDois\obj\Debug\net6.0\ref\8-CondicionasDois.dll

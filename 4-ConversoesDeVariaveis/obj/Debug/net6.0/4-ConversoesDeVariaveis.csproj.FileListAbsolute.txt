@@ -1,0 +1,15 @@
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\bin\Debug\net6.0\4-ConversoesDeVariaveis.exe
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\bin\Debug\net6.0\4-ConversoesDeVariaveis.deps.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\bin\Debug\net6.0\4-ConversoesDeVariaveis.runtimeconfig.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\bin\Debug\net6.0\4-ConversoesDeVariaveis.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\bin\Debug\net6.0\4-ConversoesDeVariaveis.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.AssemblyInfo.cs
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\refint\4-ConversoesDeVariaveis.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\4-ConversoesDeVariaveis.genruntimeconfig.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\4-ConversoesDeVariaveis\obj\Debug\net6.0\ref\4-ConversoesDeVariaveis.dll

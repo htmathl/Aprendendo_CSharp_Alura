@@ -1,0 +1,15 @@
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\bin\Debug\net6.0\DesafioModulo5.exe
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\bin\Debug\net6.0\DesafioModulo5.deps.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\bin\Debug\net6.0\DesafioModulo5.runtimeconfig.json
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\bin\Debug\net6.0\DesafioModulo5.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\bin\Debug\net6.0\DesafioModulo5.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.csproj.AssemblyReference.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.AssemblyInfoInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.AssemblyInfo.cs
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.csproj.CoreCompileInputs.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\refint\DesafioModulo5.dll
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.pdb
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\DesafioModulo5.genruntimeconfig.cache
+C:\Users\matfd\source\repos\Aprendendo_CSharp_Alura\DesafioModulo5\obj\Debug\net6.0\ref\DesafioModulo5.dll
