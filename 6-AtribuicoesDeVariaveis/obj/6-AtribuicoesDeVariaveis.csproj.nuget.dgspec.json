@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {}
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
         "projectName": "6-AtribuicoesDeVariaveis",
-        "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
-        "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\6-AtribuicoesDeVariaveis\\obj\\",
+        "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+        "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\6-AtribuicoesDeVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

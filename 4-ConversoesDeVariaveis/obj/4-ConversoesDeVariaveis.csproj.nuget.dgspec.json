@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj": {}
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj": {
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj",
         "projectName": "4-ConversoesDeVariaveis",
-        "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj",
-        "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\4-ConversoesDeVariaveis\\obj\\",
+        "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\4-ConversoesDeVariaveis\\4-ConversoesDeVariaveis.csproj",
+        "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\4-ConversoesDeVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

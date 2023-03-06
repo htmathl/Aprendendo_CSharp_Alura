@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matfd\\.nuget\\packages\\": {}
+    "C:\\Users\\iprem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\9-AplicativoDoScopo\\9-AplicativoDoScopo.csproj",
+      "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\9-AplicativoDoScopo\\9-AplicativoDoScopo.csproj",
       "projectName": "9-AplicativoDoScopo",
-      "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\9-AplicativoDoScopo\\9-AplicativoDoScopo.csproj",
-      "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\9-AplicativoDoScopo\\obj\\",
+      "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\9-AplicativoDoScopo\\9-AplicativoDoScopo.csproj",
+      "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\9-AplicativoDoScopo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

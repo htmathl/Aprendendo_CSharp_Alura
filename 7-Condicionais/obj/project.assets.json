@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matfd\\.nuget\\packages\\": {}
+    "C:\\Users\\iprem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\7-Condicionais\\7-Condicionais.csproj",
+      "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\7-Condicionais\\7-Condicionais.csproj",
       "projectName": "7-Condicionais",
-      "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\7-Condicionais\\7-Condicionais.csproj",
-      "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\7-Condicionais\\obj\\",
+      "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\7-Condicionais\\7-Condicionais.csproj",
+      "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\7-Condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,15 @@
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.exe
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.deps.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.runtimeconfig.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.csproj.AssemblyReference.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.AssemblyInfoInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.AssemblyInfo.cs
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.csproj.CoreCompileInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\refint\DesafioMultiplo3.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.genruntimeconfig.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioMultiplo3\obj\Debug\net6.0\ref\DesafioMultiplo3.dll

@@ -1,0 +1,15 @@
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\bin\Debug\net6.0\TestandoAtividadeBreak.exe
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\bin\Debug\net6.0\TestandoAtividadeBreak.deps.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\bin\Debug\net6.0\TestandoAtividadeBreak.runtimeconfig.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\bin\Debug\net6.0\TestandoAtividadeBreak.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\bin\Debug\net6.0\TestandoAtividadeBreak.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.csproj.AssemblyReference.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.AssemblyInfoInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.AssemblyInfo.cs
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.csproj.CoreCompileInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\refint\TestandoAtividadeBreak.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\TestandoAtividadeBreak.genruntimeconfig.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\TestandoAtividadeBreak\obj\Debug\net6.0\ref\TestandoAtividadeBreak.dll

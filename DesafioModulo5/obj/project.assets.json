@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matfd\\.nuget\\packages\\": {}
+    "C:\\Users\\iprem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\DesafioModulo5\\DesafioModulo5.csproj",
+      "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\DesafioModulo5\\DesafioModulo5.csproj",
       "projectName": "DesafioModulo5",
-      "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\DesafioModulo5\\DesafioModulo5.csproj",
-      "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\DesafioModulo5\\obj\\",
+      "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\DesafioModulo5\\DesafioModulo5.csproj",
+      "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\DesafioModulo5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

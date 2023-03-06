@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
+    "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
         "projectName": "5-CaracteresETextos",
-        "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
-        "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\5-CaracteresETextos\\obj\\",
+        "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\5-CaracteresETextos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

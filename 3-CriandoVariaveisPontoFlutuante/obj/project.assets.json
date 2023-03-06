@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matfd\\.nuget\\packages\\": {}
+    "C:\\Users\\iprem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
       "projectName": "3-CriandoVariaveisPontoFlutuante",
-      "projectPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
-      "packagesPath": "C:\\Users\\matfd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matfd\\source\\repos\\Aprendendo_CSharp_Alura\\3-CriandoVariaveisPontoFlutuante\\obj\\",
+      "projectPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "packagesPath": "C:\\Users\\iprem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iprem\\source\\repos\\AprendendoCSharpAlura\\3-CriandoVariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matfd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iprem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

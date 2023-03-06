@@ -1,0 +1,15 @@
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.exe
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.deps.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.runtimeconfig.json
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.AssemblyReference.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfoInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfo.cs
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\refint\DesafioFatorial.dll
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.pdb
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.genruntimeconfig.cache
+C:\Users\iprem\source\repos\AprendendoCSharpAlura\DesafioFatorial\obj\Debug\net6.0\ref\DesafioFatorial.dll
